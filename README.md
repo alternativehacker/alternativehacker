@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://tryhackme.com/badge/1951940"></script>
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/wTj_ZvXm6r4zuMDQgof3Lw.png">
+</a>
